@@ -3,7 +3,7 @@
 <strong>MAKER AI </strong>
     <br>
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=June-Official;Multi+Device+Whatsapp+Bot;Made+by+MAKER+MD" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Rockwell&size=50&pause=1000&color=33ff00&center=true&width=910&height=100&lines=Maker Ai-Official;Multi+Device+Whatsapp+Bot;Made+by+MAKER+MD" alt="Typing SVG" />
   </a> 
 </div> 
 
